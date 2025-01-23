@@ -2,7 +2,7 @@ import { createRouter, createWebHistory } from 'vue-router';
 import annyang from 'annyang';
 import VoiceGame from './components/VoiceGame.vue';
 import Puzzle from './views/Puzzle.vue';
-import TicTacToe from './views/TicTacToe.vue';
+import TicTacToe from './views/Tictactoe.vue';
 import SnakeAndLadder from "./views/SnakeAndLadder.vue";
 
 
